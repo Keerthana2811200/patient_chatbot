@@ -73,9 +73,12 @@ Visit `http://localhost:5000` in your web browser.
 
 
 
-## 🔗 Live Demo
+## 🔗 Screenshots
 
-[Live Demo Link](https://your-live-demo-link-if-hosted.com)
+<img width="1365" height="767" alt="Screenshot 2025-07-12 131113" src="https://github.com/user-attachments/assets/fd25b5f1-e51d-4aa5-86d4-443f566417cd" />
+
+
+
 
 
 
