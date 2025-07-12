@@ -51,7 +51,7 @@ patient-chatbot/
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/patient-chatbot.git
+git clone https://github.com/Keerthana2811200/patient_chatbot
 cd patient-chatbot
 
 
